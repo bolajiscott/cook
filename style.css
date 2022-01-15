@@ -148,3 +148,22 @@
     font-size: 30px;
     color: #fff;
 }
+
+.items-box{
+    display: flex;
+    width: 70%;
+    margin: 100px auto;
+}
+
+.item{
+    margin-right: 45px;
+}
+
+.item h3{
+    margin-bottom: 15px;
+}
+
+.item p{
+    font-size: 14px;
+    color: #ada9a9;
+}
