@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+
+}
+
+.intro{
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(240.99deg, #D20606 0%, #7B05A5 100%);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.nav{
+    width: 75%;
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.call-action{
+    background: #000;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.about{
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px auto;
+}
+
+.about p{
+    font-size: 12px;
+    margin: 15px 0;
+}
+
+.about h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.subscribe{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 25px;
+    padding: 5px 5px 5px 10px;
+    margin: 30px 0 60px 0;
+}
+
+.subscribe .email{
+    color: #000;
+    font-size: 16px;
+}
+
+.subscribe .call-action{
+    background: #000;
+    padding: 0 22px;
+    color: #fff;
+    border-radius: 20px;
+
+} 
+
+.subscribe .call-action p{
+    font-size: 16px;
+}
+
+.cooking{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+.cooking img{
+    width: 600px;
+    margin-top: -100px;
+}
+
+.access{
+    display: flex;
+    margin: 30px auto;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    text-align: center;
+    margin-bottom: 100px;  
+}
+
+.access h2{
+    font-size: 30px;
+}
+
+.g-p{
+    font-size: 14px;
+    margin: 20px;
+    color: #ada9a9;
+}
+
+.join-box{
+    background-color: #000;
+    padding: 50px 0;
+
+}
+
+.join{   
+    display: flex;
+    margin: 30px auto;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    text-align: center;
+    margin-bottom: 100px;  
+   
+}
+
+.g-pp{
+    width: 40%;
+    text-align: center;
+    line-height: 17px;
+}
+
+.join .subscribe{
+    padding: 15px;
+}
+
+.join .call-action{
+    background: #000;
+    padding: 0 22px;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.join h2{
+    font-size: 30px;
+    color: #fff;
+}
