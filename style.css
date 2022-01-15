@@ -199,3 +199,31 @@
 {
     margin-bottom: 20px;
 }
+
+.final{
+    width: 50%;
+    margin-left: 38%;
+    padding: 0 0 150px 0;
+}
+
+.terms-privacy{
+    display: flex;
+    margin: 30px 0;
+    font-weight: bold;
+}
+
+.terms-privacy p{
+    margin-right: 35px;
+}
+
+.disclaimer .p-1{
+    font-weight: bold;
+    margin: 10px 0 20px 0;
+}
+
+.disclaimer .p-2{
+    color: #ada9a9;
+    font-size: 15px;
+    line-height: 20px;
+}
+
