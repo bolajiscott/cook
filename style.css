@@ -167,3 +167,30 @@
     font-size: 14px;
     color: #ada9a9;
 }
+
+.lists{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.prov-1 h3{
+    color: rgb(60, 60, 216);
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.prov-1 p{
+    margin-bottom: 15px;
+    font-size: 14px;
+    color: #ada9a9;
+    text-decoration: underline;
+}
+
+.prov-2 h3,
+.prov-3 h3,
+.prov-4 h3
+{
+    margin-bottom: 20px;
+}
