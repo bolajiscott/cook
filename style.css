@@ -216,6 +216,17 @@
     margin-right: 35px;
 }
 
+.socials{
+    margin-bottom: 30px;
+}
+
+.socials i{
+    color: rgb(60, 60, 216);
+    margin-right: 30px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
 .disclaimer .p-1{
     font-weight: bold;
     margin: 10px 0 20px 0;
