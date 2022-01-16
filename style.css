@@ -264,5 +264,9 @@
     .subscribe{
         width: 80%;
     }
+
+    .cooking img{
+        width: 70%;
+    }
 }
 
