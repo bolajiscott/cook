@@ -252,5 +252,13 @@
     .nav{
         width: 80%;
     }
+
+    .about{
+        width: 100%;
+    }
+
+    .about h1{
+        font-size: 35px;
+    }
 }
 
